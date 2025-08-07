@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "50126284521",
+    "firebase_url": "https://noah-7bfd8-default-rtdb.firebaseio.com",
+    "project_id": "noah-7bfd8",
+    "storage_bucket": "noah-7bfd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50126284521:android:5a1b2efb2a4f4cf5823278",
+        "android_client_info": {
+          "package_name": "com.example.noah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSMKUl01AbpyjBmC6IfW9mj3QkchFXXwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
