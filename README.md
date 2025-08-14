@@ -60,6 +60,14 @@ NOAH는 센서를 활용한 쓰레기 감지, 자동 문 개폐 기능, 그리�
 
 ---
 
+## 시스템 시연 영상
+
+[하수구 위에 쓰레기가 있을 때 자동으로 하수구를 여는 영상](https://youtube.com/shorts/3Wmb6r4MecU?feature=share)
+
+[쓰레기가 다 차서 앱으로 하수구를 여는 영상](https://youtube.com/shorts/XITCrnQTSnc?feature=share)
+
+---
+
 ## 기대 효과
 
 - 하수구 막힘 방지 및 홍수 예방  
