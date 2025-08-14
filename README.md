@@ -67,9 +67,3 @@ NOAH는 센서를 활용한 쓰레기 감지, 자동 문 개폐 기능, 그리�
   - [관련 기사 2](https://n.news.naver.com/article/001/0014744121?sid=102)  
 - 기존 반자동화 시스템 대비 효율 향상  
   - [기존 시스템 링크](https://me.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=&orgCd=&boardId=1672610&boardMasterId=1&boardCategoryId=&decorator=)
-
----
-
-## 향후 개선 사항
-
-- 하수구에 GPS를 설치하여 다수의 하수구 좌표값을 앱에 마커로 표시
